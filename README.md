@@ -94,3 +94,29 @@ Learners were grouped into four segments:
 ## Conclusion
 
 This project demonstrates an end-to-end data analytics workflow using Python, from data cleaning and exploratory analysis to feature engineering, segmentation, visualization, and business recommendations.
+
+## Project Visualizations
+
+### Learners by Country
+![Learners by Country](images/learners_by_country.png)
+
+### Average XP by Country
+![Average XP by Country](images/average_xp_by_country.png)
+
+### Subscription Engagement Comparison
+![Subscription Engagement](images/subscription_engagement.png)
+
+### Engagement Across Inactivity Levels
+![Engagement vs Inactivity](images/engagement_inactivity.png)
+
+### Sessions per Week vs XP
+![Sessions vs XP](images/sessions_vs_xp.png)
+
+### Active Days vs Lessons Completed
+![Active Days vs Lessons](images/active_days_vs_lessons.png)
+
+### Learner Activity Distribution
+![Learner Activity Distribution](images/learner_activity_distribution.png)
+
+### Platform and Subscription Comparison
+![Platform Subscription Comparison](images/platform_subscription_comparison.png)
